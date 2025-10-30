@@ -157,8 +157,3 @@ Você pode colar os blocos abaixo com as saídas reais para seu README ficar mai
 
 ---
 
-## Observações finais
-Este README está pronto para uso no GitHub e já inclui o IP real do seu laboratório (`192.168.56.103`). Se quiser, posso:
-- inserir **suas saídas reais** de `nmap` e `medusa` diretamente no README (cole-as aqui e eu atualizo o arquivo), ou  
-- gerar agora o `README.md` final com o texto atual para download.
-
